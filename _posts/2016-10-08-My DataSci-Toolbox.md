@@ -7,8 +7,7 @@ categories: cheat sheets dsi python datasets munging cleaning
 image:
   teaser: Toolbox.jpg
   feature: Toolbox.jpg
-  credit: Michael Rose #name of the person or site you want to credit
-  creditlink: https://mademistakes.com #url to their site or licensing
+  credit: JP Freeley #name of the person or site you want to credit
 ---
 
 ### Cheat sheets

@@ -7,8 +7,7 @@ categories: project dsi python eda munging cleaning Billboard
 image:
   teaser: project-02/weeks_month_entered.png
   feature: project-02/weeks_month_entered.png
-  credit: Michael Rose #name of the person or site you want to credit
-  creditlink: https://mademistakes.com #url to their site or licensingi
+  credit: JP Freeley #name of the person or site you want to credit
 ---
 
 Week 2 Project Overview
