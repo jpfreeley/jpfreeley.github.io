@@ -8,12 +8,20 @@ image:
   teaser: Toolbox.jpg
   feature: Toolbox.jpg
   credit: JP Freeley #name of the person or site you want to credit
-author: 
+owner:
   name: JP Freeley
+  email: jpf321@gmail.com
+  twitter: @jp_freeley
+  google:
+    ad-client:
+    ad-slot:
+  bio:
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  disqus-shortname:
 ---
 
 ### Cheat sheets
-+ [Ma rkDown Cheat Sheet][daa8bf2e]
++ [MarkDown Cheat Sheet][daa8bf2e]
 + [Data Exploration with Pandas (PDF)][765375b7]
 + [Git Cheat Sheet][5b59dee3]
 + [Data Wrangling][bf644cd9]
