@@ -6,7 +6,6 @@ summary: -- Cheat Sheets, Data Sets and all things useful --
 categories: cheat sheets dsi python datasets munging cleaning
 image:
   teaser: Toolbox.jpg
-  feature: Toolbox.jpg
   credit: JP Freeley #name of the person or site you want to credit
 author: pia
 ---
