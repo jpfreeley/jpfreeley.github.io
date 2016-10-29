@@ -5,8 +5,8 @@ date: 2016-09-27 23:00:00
 summary: Overview and description of my introductory Data Science Immersive project
 categories: project dsi python
 image:
-  teaser: 400x250.gif
-  feature: feature-image-filename.jpg
+  teaser: project-01/scatterplots.png
+  feature: project-01/scatterplots.png
   credit: JP Freeley #name of the person or site you want to credit
   creditlink:  #url to their site or licensing
 ---
