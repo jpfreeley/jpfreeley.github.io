@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Project 1 - 2001 SAT Scores
 date: 2016-09-27 23:00:00
 summary: Overview and description of my introductory Data Science Immersive project
