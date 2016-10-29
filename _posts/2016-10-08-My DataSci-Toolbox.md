@@ -4,6 +4,11 @@ title: My Data Science Toolbox
 date: 2016-10-08 23:00:00
 summary: -- Cheat Sheets, Data Sets and all things useful --
 categories: cheat sheets dsi python datasets munging cleaning
+image:
+  teaser: Toolbox.jpg
+  feature: Toolbox.jpg
+  credit: Michael Rose #name of the person or site you want to credit
+  creditlink: https://mademistakes.com #url to their site or licensing
 ---
 
 ### Cheat sheets
