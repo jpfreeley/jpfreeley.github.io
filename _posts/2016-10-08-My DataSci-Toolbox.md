@@ -8,7 +8,8 @@ image:
   teaser: Toolbox.jpg
   feature: Toolbox.jpg
   credit: JP Freeley #name of the person or site you want to credit
-author: JP Freeley
+author: 
+  author name: JP Freeley
 ---
 
 ### Cheat sheets
