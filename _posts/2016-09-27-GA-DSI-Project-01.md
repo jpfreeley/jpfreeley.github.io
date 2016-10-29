@@ -4,6 +4,11 @@ title: Project 1 - 2001 SAT Scores
 date: 2016-09-27 23:00:00
 summary: Overview and description of my introductory Data Science Immersive project
 categories: project dsi python
+image:
+  teaser: 400x250.gif
+  feature: feature-image-filename.jpg
+  credit: JP Freeley #name of the person or site you want to credit
+  creditlink:  #url to their site or licensing
 ---
 
 Week 1 Project Overview

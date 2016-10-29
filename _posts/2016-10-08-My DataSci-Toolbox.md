@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: My Data Science Toolbox
 date: 2016-10-08 23:00:00
 summary: -- Cheat Sheets, Data Sets and all things useful --
