@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project 3 - J3 Consultancy - Iowa Liquor Store Expansion
-date: 2016-10-12 02:30:00
+modified: 2016-10-12 02:30:00
 summary: Overview and description of my introductory Data Science Immersive project
 categories: project dsi python eda munging cleaning Iowa Liquor liner model Lasso regression
 image:

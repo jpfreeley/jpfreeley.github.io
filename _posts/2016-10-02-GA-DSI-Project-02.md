@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Project 2 - Music Industry Data - Billboard Hot100 Chart
-date: 2016-10-02 23:00:00
+modified: 2016-10-02 23:00:00
 summary: Overview and description of my introductory Data Science Immersive project
 categories: project dsi python eda munging cleaning Billboard
 image:

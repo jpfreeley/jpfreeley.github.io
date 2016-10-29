@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project 4 - Fantastic 4 Consultancy - Predicting Data Scientist Salaries via Web Scraping
-date: 2016-10-19 02:30:00
+modified: 2016-10-19 02:30:00
 summary: Overview and description of my introductory Data Science Immersive project
 categories: project dsi python eda web scraping LogisticRegression salary glassdoor
 ---
