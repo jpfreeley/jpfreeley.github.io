@@ -8,6 +8,9 @@ image:
   teaser: Toolbox.jpg
   feature: Toolbox.jpg
   credit: JP Freeley #name of the person or site you want to credit
+author: 
+  name: JPF
+  avatar: Toolbox.jpg
 owner:
   name: JP Freeley
   email: jpf321@gmail.com
