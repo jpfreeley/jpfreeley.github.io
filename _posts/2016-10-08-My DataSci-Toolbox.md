@@ -13,7 +13,7 @@ author:
 ---
 
 ### Cheat sheets
-+ [MarkDown Cheat Sheet][daa8bf2e]
++ [Ma rkDown Cheat Sheet][daa8bf2e]
 + [Data Exploration with Pandas (PDF)][765375b7]
 + [Git Cheat Sheet][5b59dee3]
 + [Data Wrangling][bf644cd9]
