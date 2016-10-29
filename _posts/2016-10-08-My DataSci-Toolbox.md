@@ -9,7 +9,7 @@ image:
   feature: Toolbox.jpg
   credit: JP Freeley #name of the person or site you want to credit
 author: 
-  author name: JP Freeley
+  name: JP Freeley
 ---
 
 ### Cheat sheets
