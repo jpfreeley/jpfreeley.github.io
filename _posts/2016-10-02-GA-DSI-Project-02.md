@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Project 2 - Music Industry Data - Billboard Hot100 Chart
+title: Billboard Hot100 Chart -- Analysis of Song's Chart Lifetime based on a June debut 
 modified: 2016-10-02 23:00:00
 summary: Overview and description of my introductory Data Science Immersive project
 categories: project dsi python eda munging cleaning Billboard
@@ -10,7 +10,7 @@ image:
   credit: JP Freeley #name of the person or site you want to credit
 ---
 
-Week 2 Project Overview
+Billboard's Hot100 .. Is June as Hot as Hyped?
 -----------------------
 
 The project this week was meant to build upon our growing proficiency in Python, especially Pandas. The project also drove home the statistical concepts of Study Design, Hypothesis Testing, T-statistics, P-Values as well as Data Cleaning and EDA (Exploratory Data Analysis)
@@ -107,7 +107,7 @@ The NULL-HYPOTHESIS is that a Song which Debuts in June has no extra staying pow
 
 Based on the above calculations, this should be apparent. The difference between the means = 0.75. We ran a ttest_ind calculation which confirms that we may not reject the NULL-HYPOTHESIS because it's value is.
 
-In fact, it turns out that there is no particular month that any song should aim for. It is not true, based on our analysis that debuting on the charts in a particular month provides any advantage with regard to lifetime on the charts. 
+In fact, it turns out that there is no particular month that any song should aim for. It is not true, based on our analysis that debuting on the charts in a particular month provides any advantage with regard to lifetime on the charts.
 
 ### DEPLOY AND VALIDATE
 

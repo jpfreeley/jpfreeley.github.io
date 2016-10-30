@@ -1,6 +1,6 @@
 ---
 layout: post
-title: J3 Consultancy - Iowa Liquor Store Expansion Analysis
+title: Iowa Liquor Store Expansion Analysis - What makes a ZIP-code attractive?
 modified: 2016-10-12 02:30:00
 summary: Overview and description of my introductory Data Science Immersive project
 categories: project dsi python eda munging cleaning Iowa Liquor liner model Lasso regression
@@ -9,7 +9,7 @@ image:
   credit: JP Freeley #name of the person or site you want to credit
 ---
 
-Determine the Best Zip Code for New Liquor Store
+Is there such a thing as a sexy ZIP code demographic to a Liquor Store? 
 -----------------------
 
 This week's assignment was a group effort with 2 other classmates, Jocelyn and Joshua.

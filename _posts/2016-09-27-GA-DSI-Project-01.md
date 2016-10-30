@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Project 1 - 2001 SAT Scores
+title: 2001 SAT Scores
 modified: 2016-09-27 23:00:00
 summary: Overview and description of my introductory Data Science Immersive project
 categories: project dsi python
@@ -11,7 +11,7 @@ image:
   creditlink:  #url to their site or licensing
 ---
 
-Week 1 Project Overview
+The Snake is your Friend .. Introduction to Python for Data Science -- An analysis of State Based SAT scores 2001
 -----------------------
 
 The project this week was meant as an introduction to Python data analysis and visualization. It required me to:
