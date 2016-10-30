@@ -9,7 +9,7 @@ image:
   credit: JP Freeley #name of the person or site you want to credit
 ---
 
-Week 3 Project Overview
+Determine the Best Zip Code for New Liquor Store
 -----------------------
 
 This week's assignment was a group effort with 2 other classmates, Jocelyn and Joshua.
