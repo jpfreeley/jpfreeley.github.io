@@ -7,9 +7,10 @@ categories: project dsi python eda munging cleaning Iowa Liquor liner model Lass
 image:
   teaser: project-03/total_sales_heatmap.png
   credit: JP Freeley #name of the person or site you want to credit
+author: jpf
 ---
 
-Is there such a thing as a sexy ZIP code demographic to a Liquor Store? 
+Is there such a thing as a sexy ZIP code demographic to a Liquor Store?
 -----------------------
 
 This week's assignment was a group effort with 2 other classmates, Jocelyn and Joshua.

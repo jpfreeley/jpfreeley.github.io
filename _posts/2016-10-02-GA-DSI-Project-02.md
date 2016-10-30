@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Billboard Hot100 Chart -- Analysis of Song's Chart Lifetime based on a June debut 
+title: Billboard Hot100 Chart -- Analysis of Song's Chart Lifetime based on a June debut
 modified: 2016-10-02 23:00:00
 summary: Overview and description of my introductory Data Science Immersive project
 categories: project dsi python eda munging cleaning Billboard
@@ -8,6 +8,7 @@ image:
   teaser: project-02/weeks_month_entered.png
   feature: project-02/weeks_month_entered.png
   credit: JP Freeley #name of the person or site you want to credit
+author: jpf
 ---
 
 Billboard's Hot100 .. Is June as Hot as Hyped?

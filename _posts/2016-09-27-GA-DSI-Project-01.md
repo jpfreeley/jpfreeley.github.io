@@ -9,6 +9,7 @@ image:
   feature: project-01/scatterplots.png
   credit: JP Freeley #name of the person or site you want to credit
   creditlink:  #url to their site or licensing
+author: jpf
 ---
 
 The Snake is your Friend .. Introduction to Python for Data Science -- An analysis of State Based SAT scores 2001
