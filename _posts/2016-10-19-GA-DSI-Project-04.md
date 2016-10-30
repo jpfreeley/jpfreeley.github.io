@@ -7,7 +7,7 @@ categories: project dsi python eda web scraping LogisticRegression salary glassd
 image:
   teaser: DS_Salary_Scrape/DS_Salaries_COL_norm.png
   credit: JP Freeley #name of the person or site you want to credit
-
+author: jpf 
 ---
 
 What makes a Data Scientist Well-Paid?
