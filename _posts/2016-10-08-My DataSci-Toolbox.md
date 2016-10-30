@@ -7,7 +7,6 @@ categories: cheat sheets dsi python datasets munging cleaning
 image:
   teaser: Toolbox.jpg
   credit: JP Freeley #name of the person or site you want to credit
-author: jpf
 ---
 
 ### Cheat sheets
