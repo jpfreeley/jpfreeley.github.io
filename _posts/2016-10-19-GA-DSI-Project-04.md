@@ -1,9 +1,13 @@
 ---
-layout: post
+layout: article
 title: Predicting Data Scientist Salaries via Web Scraping
 modified: 2016-10-19 02:30:00
 summary: Overview and description of my introductory Data Science Immersive project
 categories: project dsi python eda web scraping LogisticRegression salary glassdoor
+image:
+  teaser: DS_Salary_Scrape/DS_Salaries_COL_norm.png
+  credit: JP Freeley #name of the person or site you want to credit
+author: jpf
 ---
 
 What makes a Data Scientist Well-Paid?
